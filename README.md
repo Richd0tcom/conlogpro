@@ -1,4 +1,4 @@
-# supreme-fishstick
+# Distributed Computing
 
 ## Requirements
 - Golang ^1.8 installed
