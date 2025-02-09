@@ -7,12 +7,12 @@
 - clone the repo
 
 ```bash
- git clone https://github.com/Likeaprayer/supreme-fishstick.git
+ git clone https://github.com/richd0tcom/conlogpro.git
 
 ```
 -open it
 ```bash
-    cd supreme-fishstick/c
+    cd conlogpro/cmd
 ```
 ## Concurrent Log Processor
 
